@@ -1,8 +1,5 @@
-# React + Vite
+## Image Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an image gallery app, like Unsplash or Adobe stock. This project visualises the use of masonry grid to display images the way all this famous websites do. Also, I have used Unsplash public API to get all the image datas.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Deployed website - https://mellow-dasik-c124bd.netlify.app/
